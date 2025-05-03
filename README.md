@@ -1,16 +1,19 @@
-👋 Hi, I’m @BrandonDeveloper08
+BrandonDeveloper08/README.md
+👋 Hi, I'm @BrandonDeveloper08
 
-👀 I’m interested in web development, creating innovative applications, and collaborating on exciting projects.
+👀 I'm interested in web development, building innovative apps, and collaborating on exciting projects.
 
-🌱 I’m currently learning advanced backend development and exploring AI integration in apps.
+🌱 I'm currently learning advanced backend development and exploring AI integration in apps.
 
-💞️ I’m looking to collaborate on web or app development projects that solve real-world problems.
+💞️ I'm looking to collaborate on web or app development projects that solve real-world problems.
 
 📫 How to reach me: brandondevnunez@gmail.com
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I started coding at 16 and love playing basketball on weekends!
+⚡ Fun fact: I started coding when I was 17 and love to play basketball on the weekends.
+
+Portfolio: https://portafolio-front.netlify.app/
 
 <!---
 BrandonDeveloper08/BrandonDeveloper08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
